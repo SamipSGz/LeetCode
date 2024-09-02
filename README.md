@@ -6,4 +6,4 @@ Welcome to my repository of solutions to the daily challenge questions on LeetCo
 
 - **Platform**: [LeetCode](https://leetcode.com/)
 - **Challenge Type**: Daily coding challenges covering a wide range of topics and difficulties.
-- **Languages Used**: Python, Java, C++, etc. (Specify the languages you use)
+- **Languages Used**: Python, C++
